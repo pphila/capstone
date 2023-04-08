@@ -13,6 +13,7 @@
   * Acquire high res photos
 
 # Ideas
+  * Firebase hosting vs AWS?
   * Interactive navbar with background video: [nav idea](https://www.waxmotif.com/)
   * Other website used for inspirsation [John Summit](https://www.johnsummitmusic.com/)
   * Booking tab -> either contact form that will notify via email after submit or api for calendar mgmt
