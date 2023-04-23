@@ -7,5 +7,8 @@
 * 1:15: Explored [Typescript](https://www.typescriptlang.org/) documentation
 * 1:45: Explored [Next.js](https://nextjs.org/) documentation
 
+#### 4/19
+* Obtained Domain name
+
 #### 4/22
 * 1300: Began Next.js [tutorial](https://www.youtube.com/watch?v=4xduSsxa5Os&t=2165s&ab_channel=developedbyed)
